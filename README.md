@@ -52,3 +52,7 @@ The LEDs are controlled through direct access to the controller registers:
 
 
 ## Wiring
+![Wiring](wiring.png)
+
+## Schema
+![Schema](schema.pdf)
